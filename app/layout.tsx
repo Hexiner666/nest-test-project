@@ -4,7 +4,7 @@
  * @Date: 2024-10-22 06:17:11
  */
 import '@/app/ui/global.css';
-import { inter } from 'import { lusitana } from '@/app/ui/fonts'
+import { inter } from '@/app/ui/fonts';
 
 export default function RootLayout({
   children,
